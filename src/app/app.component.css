@@ -1,0 +1,5 @@
+.list-group
+{
+    display: grid;
+    justify-content: center;
+}
